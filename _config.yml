@@ -1,13 +1,13 @@
 # Site settings & data
-title: Adele Goldstine
-author: Adele Goldstine
+title: Chuck Martin
+author: Chuck Martin
 description: Personal blog and resume
-url: https://myurl.com/
+url: http://chuck.martin.name/
 avatar: eniac-woman.jpg
 resume: "/static/sample-resume.pdf"
 email: yourname@email.com
-github: username
-twitter: username
+github: chuck-martin
+twitter: chuck_martin
 linkedin: username
 stackoverflow: 1234567/username
 disqus: username
